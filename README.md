@@ -29,10 +29,9 @@ This portfolio website is designed to give visitors a glimpse of my creative pro
 
 ## Tech Stack
 
-- **Front End**: HTML5, CSS3 (SCSS), JavaScript (ES6+)
-- **Frameworks/Libraries**: [React](https://reactjs.org/) (if applicable), [Bootstrap](https://getbootstrap.com/) (optional)
-- **Back End**: Node.js/Express (if applicable)
-- **Hosting**: GitHub Pages, Vercel, or Netlify (depending on your choice)
+- **Front End**: HTML5, CSS3 (SCSS), JavaScript (ES6+) _ Vite 
+- **Frameworks/Libraries**: [React](https://reactjs.org/) , Tailwind, Accetinity
+- **Hosting**: Vercel
 
 ---
 
