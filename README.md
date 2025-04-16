@@ -15,8 +15,8 @@ This portfolio website is designed to give visitors a glimpse of my creative pro
 ---
 
 ## Screenshot
+## ![image](https://github.com/user-attachments/assets/571d0263-656c-45e8-bae9-b402adca015a)
 
-## ![Nivedita Arya K Portfolio](./public/image.png)
 
 ## Features
 
@@ -29,10 +29,9 @@ This portfolio website is designed to give visitors a glimpse of my creative pro
 
 ## Tech Stack
 
-- **Front End**: HTML5, CSS3 (SCSS), JavaScript (ES6+)
-- **Frameworks/Libraries**: [React](https://reactjs.org/) (if applicable), [Bootstrap](https://getbootstrap.com/) (optional)
-- **Back End**: Node.js/Express (if applicable)
-- **Hosting**: GitHub Pages, Vercel, or Netlify (depending on your choice)
+- **Front End**: HTML5, CSS3 (SCSS), JavaScript (ES6+) _ Vite 
+- **Frameworks/Libraries**: [React](https://reactjs.org/) , Tailwind, Accetinity
+- **Hosting**: Vercel
 
 ---
 
