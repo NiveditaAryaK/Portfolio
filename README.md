@@ -16,7 +16,7 @@ This portfolio website is designed to give visitors a glimpse of my creative pro
 
 ## Screenshot
 
----
+## ![Nivedita Arya K Portfolio](./public/image.png)
 
 ## Features
 
