@@ -90,7 +90,7 @@ const AppShowcase = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Sanctum
+                  Sanctum-Authorised Agentic Rag
                 </a>
               </h2>
             </div>
