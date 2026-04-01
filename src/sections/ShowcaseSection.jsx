@@ -73,7 +73,7 @@ const AppShowcase = () => {
             </div>
           </div>
 
-          <div className="project-list-wrapper overflow-hidden">
+          <div className="project-list-wrapper">
             <div className="project" ref={libraryRef}>
               <div className="image-wrapper">
                 <a
@@ -85,7 +85,6 @@ const AppShowcase = () => {
                 </a>
               </div>
               <h2>
-                &ensp;&ensp;&ensp;&ensp;
                 <a
                   href="https://github.com/NiveditaAryaK/agent-vault"
                   target="_blank"
@@ -107,7 +106,6 @@ const AppShowcase = () => {
                 </a>
               </div>
               <h2>
-                &ensp;&ensp;&ensp;&ensp;
                 <a
                   href="https://github.com/SangamSmilikaReddy/DFU"
                   target="_blank"

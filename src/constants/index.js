@@ -155,7 +155,10 @@ const expCards = [
     title: "Technical Consultant",
     date: "Feb 2025 - Present",
     responsibilities: [
-      " Building a website that transforms ideas into live, working code instantly—like magic for developers and dreamers alike.",
+      "Built a general-purpose Defect Analysis system using a multi-agent ML pipeline with hierarchical clustering, embeddings, and LLM reasoning to automate defect grouping and RCA generation.",
+      "Created multi-level clustering flows to identify defect themes, families, and risk patterns, improving analysis accuracy by 40%.",
+      "Developed a requirement to test case to defect traceability feature that helps predict potential defects and understand system-wide impacts.",
+      "Built a platform to convert natural language prompts into full-stack websites using React and Express, improving code quality and UX by 70% through prompt optimization.",
     ],
   },
   {
@@ -278,3 +281,4 @@ export {
   techStackImgs,
   navLinks,
 };
+
