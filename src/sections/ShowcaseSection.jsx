@@ -48,17 +48,27 @@ const AppShowcase = () => {
       <div className="w-full">
         <div className="showcaselayout">
           <div ref={rydeRef} className="first-project-wrapper">
-          <div className="image-wrapper">
-            <a href="https://github.com/NiveditaAryaK/YouNg" target="_blank" rel="noopener noreferrer">
-              <img src="/images/young.png" alt="Ryde App Interface" />
-          </a>
-          </div>
+            <div className="image-wrapper">
+              <a
+                href="https://github.com/NiveditaAryaK/luminary"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img src="/images/luminary.png" alt="Luminary project preview" />
+              </a>
+            </div>
             <div className="text-content">
               <h2 className="text-5xl">
-              <a href="https://github.com/NiveditaAryaK/YouNg" target="blank">YouNg</a>
+                <a
+                  href="https://github.com/NiveditaAryaK/luminary"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Luminary
+                </a>
               </h2>
               <p className="text-white-100 md:text-xl">
-              A smart fashion app that harnesses the power of AI to analyze your wardrobe images, offering personalized style advice, detailed insights on trends, and recommendations to elevate your look.
+                Luminary is a multimodal storytelling agent built for the Gemini Live Agent Challenge. It turns a short story brief into a live cinematic experience with generated prose, illustrations, narration, branching choices, saved sessions, and resumable story worlds.
               </p>
             </div>
           </div>
@@ -66,19 +76,46 @@ const AppShowcase = () => {
           <div className="project-list-wrapper overflow-hidden">
             <div className="project" ref={libraryRef}>
               <div className="image-wrapper">
-                <img
-                  src="/images/cc.png"
-                  alt="Library Management Platform"
-                />
+                <a
+                  href="https://github.com/NiveditaAryaK/agent-vault"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/images/sanctum.png" alt="Sanctum project preview" />
+                </a>
               </div>
-              <h2>&ensp;&ensp;&ensp;&ensp;Credit Card Fraud Detection</h2>
+              <h2>
+                &ensp;&ensp;&ensp;&ensp;
+                <a
+                  href="https://github.com/NiveditaAryaK/agent-vault"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Sanctum
+                </a>
+              </h2>
             </div>
 
             <div className="project" ref={ycDirectoryRef}>
               <div className="image-wrapper">
-                <img src="/images/dfud.png" alt="YC Directory App" />
+                <a
+                  href="https://github.com/SangamSmilikaReddy/DFU"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/images/dfud.png" alt="DFU project preview" />
+                </a>
               </div>
-              <h2>&ensp;&ensp;&ensp;&ensp;Diabetic Foot Ulcer Detection</h2>
+              <h2>
+                &ensp;&ensp;&ensp;&ensp;
+                <a
+                  href="https://github.com/SangamSmilikaReddy/DFU"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Diabetic Foot Ulcer Detection
+                </a>
+              </h2>
             </div>
           </div>
         </div>
